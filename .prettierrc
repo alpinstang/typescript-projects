@@ -3,5 +3,6 @@
   "printWidth": 120,
   "bracketSpacing": ,
   "arrowParens": "always",
-  "jsxSingleQuote": false
+  "jsxSingleQuote": false,
+  "singleQuote": true
 }
