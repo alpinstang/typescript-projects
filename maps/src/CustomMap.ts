@@ -1,6 +1,5 @@
-import { User } from './user';
-import { Company } from './company';
-
+// Instructions for what an object needs
+// to be able to use addMarker
 interface Mappable {
   location: {
     lat: number;
