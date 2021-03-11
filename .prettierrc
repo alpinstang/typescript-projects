@@ -1,0 +1,8 @@
+{
+  "eslintIntegration": true,
+  "printWidth": 120,
+  "bracketSpacing": ,
+  "arrowParens": "always",
+  "jsxSingleQuote": false,
+  "singleQuote": true
+}
