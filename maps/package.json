@@ -4,10 +4,11 @@
   "main": "index.ts",
   "license": "MIT",
   "scripts": {
-    "dev": "parcel maps/index.html",
-    "build": "parcel build maps/index.html"
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "devDependencies": {
+    "@babel/core": "^7.0.0",
     "parcel": "^2.0.0-beta.1",
     "typescript": "^4.2.3"
   },
